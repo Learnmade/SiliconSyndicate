@@ -1,0 +1,11 @@
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.VC.db
+*.sln
+*.suo
+.DS_Store
+Thumbs.db
